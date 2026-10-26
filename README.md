@@ -80,8 +80,5 @@ PR-FFL-MPI/
 
 ---
 
-## Coming Soon
-
-🚧 **Full dataset coming soon!**
-
-Complete raw signal data for the system matrix and phantom measurements will be made publicly available in a future release.
+## Data Download
+The dataset can be downloaded via the following link: https://www.mpilab.net/mpidata/7/
